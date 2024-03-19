@@ -1,6 +1,7 @@
 import Providers from "./Providers";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
+import Search from "./components/Search";
 import "./globals.css";
 import type { Metadata } from "next";
 
@@ -20,6 +21,7 @@ export default function RootLayout({
         <Providers>
           <Header />
           <Navbar />
+          <Search />
           {children}
         </Providers>
       </body>
