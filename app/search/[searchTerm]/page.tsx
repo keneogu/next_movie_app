@@ -1,4 +1,5 @@
 import Results from "@/app/components/Results";
+import Search from "@/app/components/Search";
 import React from "react";
 
 export default async function SearchPage({
@@ -16,6 +17,7 @@ export default async function SearchPage({
   const results = data.results;
   return (
     <div>
+      <Search />
       {results && results.length === 0 && <h1>No result found</h1>}
 
       {results && <Results results={results} />}
