@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio
 
-## Getting Started
+> This is a simple project built with next.js, typeScript. In this project I have to make use of the TMDB api to fetch api display Top rated and Trending movie. You can also search movie using the name or title of the movie. You can also switch between dark and light mode.
 
-First, run the development server:
+## Screenshot
+![App screenshot](/screenshot.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Built With
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Next.js
+- TypScript
+- Tailwindcss
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+👤 **Kenechukwu Oguagbaka**
 
-## Learn More
+- GitHub: [@keneogu](https://github.com/keneogu)
+- Twitter: [@keneogu](https://twitter.com/keneogu)
+- LinkedIn: [@keneogu](https://www.linkedin.com/in/kene-ogu/)
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions, issues and feature requests are welcome!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Show your support
 
-## Deploy on Vercel
+Give a ⭐️ if you like this project!
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgments
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+My dedication
+My ability to avoid distractions
+
+## 📝 License
+
+Copyright 2021 Kene Ogu
