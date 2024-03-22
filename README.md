@@ -3,12 +3,12 @@
 > This is a simple project built with next.js, typeScript. In this project I have to make use of the TMDB api to fetch api display Top rated and Trending movie. You can also search movie using the name or title of the movie. You can also switch between dark and light mode.
 
 ## Screenshot
-![App screenshot](/screenshot.png)
+![App screenshot](public/screenshot.png);
 
 ## Built With
 
 - Next.js
-- TypScript
+- TypeScript
 - Tailwindcss
 
 
